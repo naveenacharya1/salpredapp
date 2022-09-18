@@ -1,1 +1,1 @@
-# testProfitPredictionApp
+# testSalaryPredApp
